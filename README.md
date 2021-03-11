@@ -1,2 +1,2 @@
-# Data ining
+# Data Mining
 
