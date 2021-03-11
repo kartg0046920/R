@@ -1,0 +1,6 @@
+id height weight sex
+1 165 55 F
+2 180 75 M
+3 171 62 M
+4 157 49 F
+5 168 70 M
