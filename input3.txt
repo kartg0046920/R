@@ -1,0 +1,6 @@
+id height weight sex item1 item2
+1 165 55 F purpletea fdfdff
+2 180 75 M teabag greentea
+3 171 62 M erere fdfhdhfjdhfj
+4 157 49 F eewqqee icedtea
+5 168 70 M teabag oioioieor
